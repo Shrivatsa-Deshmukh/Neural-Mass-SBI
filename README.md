@@ -1,4 +1,4 @@
-# Neural Mass Simulation-Based Inference (SBI)
+# neural-mass-sbi
 
 A simulation-based inference (SBI) framework for Bayesian parameter estimation of neural mass models from EEG recordings, with the Jansen-Rit model as the reference implementation.
 
